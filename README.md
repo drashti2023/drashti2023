@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Drashti Rathod.
-- 🌱 I’m currently learning Bootstrap and OOPJ.
 - 📫 How to reach me drashtirathod77@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Short girl with big dreams.
