@@ -13,7 +13,6 @@ I'm a **Computer Science & Engineering student** with a strong passion for **cyb
 ### 🎯 My Interests
 - 🔐 Cybersecurity & Ethical Hacking
 - 💻 Full-Stack Development (MEAN & MERN)
-- 🌍 Open Source Contributions
 - 🚀 Exploring AI & Cloud Computing
 
 ### 🚀 Tech Stack
